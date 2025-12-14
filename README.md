@@ -1,4 +1,4 @@
-# machine_learning
+# CML
 
 A minimal C Machine Learning Library
 
